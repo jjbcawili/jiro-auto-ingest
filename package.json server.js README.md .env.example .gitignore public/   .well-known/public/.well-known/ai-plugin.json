@@ -1,0 +1,12 @@
+public/.well-known/ai-plugin.json
+package.json
+server.js
+README.md
+.env.example
+.gitignore
+public/
+  .well-known/
+    ai-plugin.json
+    openapi.json
+  logo.png
+privacy.html
